@@ -1,10 +1,12 @@
 module.exports = {
-  purge: [],
+  purge: [
+    './public/**/*.html',
+  ],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
       backgroundImage: (theme) => ({
-        bgShape: "url('/public/img/bg-shape.png')",
+        bgShape: "url('../img/bg-shape.png')",
       }),
       backgroundSize: {
         auto: "auto",

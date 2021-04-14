@@ -4230,7 +4230,7 @@ video {
 }
 
 .bg-bgShape {
-  background-image: url('/public/img/bg-shape.png');
+  background-image: url('../img/bg-shape.png');
 }
 
 .from-transparent {
@@ -35523,7 +35523,7 @@ video {
   }
 
   .sm\:bg-bgShape {
-    background-image: url('/public/img/bg-shape.png');
+    background-image: url('../img/bg-shape.png');
   }
 
   .sm\:from-transparent {
@@ -66646,7 +66646,7 @@ video {
   }
 
   .md\:bg-bgShape {
-    background-image: url('/public/img/bg-shape.png');
+    background-image: url('../img/bg-shape.png');
   }
 
   .md\:from-transparent {
@@ -97769,7 +97769,7 @@ video {
   }
 
   .lg\:bg-bgShape {
-    background-image: url('/public/img/bg-shape.png');
+    background-image: url('../img/bg-shape.png');
   }
 
   .lg\:from-transparent {
@@ -128892,7 +128892,7 @@ video {
   }
 
   .xl\:bg-bgShape {
-    background-image: url('/public/img/bg-shape.png');
+    background-image: url('../img/bg-shape.png');
   }
 
   .xl\:from-transparent {
@@ -160015,7 +160015,7 @@ video {
   }
 
   .\32xl\:bg-bgShape {
-    background-image: url('/public/img/bg-shape.png');
+    background-image: url('../img/bg-shape.png');
   }
 
   .\32xl\:from-transparent {
